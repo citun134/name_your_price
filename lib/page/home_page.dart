@@ -13,7 +13,7 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: Center(child: Text("Name Your Price")),
         elevation: 0,
-        backgroundColor: Colors.purple,
+        backgroundColor: Colors.green,
       ),
       body: Center(
         child: Column(
